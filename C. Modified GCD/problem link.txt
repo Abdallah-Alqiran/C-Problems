@@ -1,5 +1,5 @@
-Beautiful Matrix
-https://codeforces.com/problemset/problem/263/A
+C. Modified GCD
+https://codeforces.com/contest/75/problem/C
 
 My codeforces account link
 https://codeforces.com/profile/Abdallah_Alqiran
